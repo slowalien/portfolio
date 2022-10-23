@@ -1,24 +1,14 @@
 ---
 date: "2022-10-21"
-title: About me
+title: About Me 
 ---
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
-
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+I am an aspiring UX researcher studying content creators and platform governance through mixed methods.
 
 ![This is me][1]
 
+You can download my resume [**here**](https://drive.google.com/file/d/15WZSRXOk_2HkhzjdqROK5uvyTZCP-0ko/view?usp=sharing).
 
-{{< figure src="/img/about.jpg" >}}
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-#### Education
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+Academically, I am currently a third-year Ph.D. student in Human-computer interaction (HCI), at Pennsylvania State University’s College of Information Sciences and Technology, where I am advised by Dr. Yubo Kou. You can check out my academic personal site [**here**](www.renkaima.xyz).
 
 [1]: /img/about.jpg
