@@ -7,7 +7,7 @@ googleAnalytics: ''
 params:
   copyright: '&copy;2022 Renkai Ma'
   description: Renkai's UX Research portfolio
-  email: you@yoursite.com
+  email: renkai@psu.edu
   navlinks:
     - home: yes
       name: Home
