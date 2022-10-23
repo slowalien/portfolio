@@ -4,8 +4,10 @@ draft: false
 image: img/portfolio/a4-paper.jpg
 showonlyimage: false
 title: YouTubers' experiences with algorithmic decisions
-weight: 4
+weight: 1
 ---
+
+This project uncovers that YouTubers (i.e., video content creators) felt confused about the opacity and inconsistency of algorithmic decisions they received, and especially they felt unfair about the ripple effects of such decisions on their performance metrics such as viewership, audience engagement, ad income and more. This project derives from these findings to provide translatable design considerations for algorithmic moderation systems on platforms like YouTube affording monetization programs for creators. 
 <!--more-->
 
 ### Overview
