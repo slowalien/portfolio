@@ -4,7 +4,7 @@ draft: false
 image: img/portfolio/gravity-paper.jpg
 showonlyimage: false
 title: Name of the work 3
-weight: 2
+weight: 3
 ---
 
 Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
