@@ -1,11 +1,17 @@
 ---
-date: "2016-11-05T18:25:22+05:30"
+date: "2022-10-05"
 draft: false
 image: img/portfolio/a4-paper.jpg
-showonlyimage: true
-title: Name of the work 1
-weight: 0
+showonlyimage: false
+title: YouTubers' experiences with algorithmic decisions
+weight: 4
 ---
+<!--more-->
+
+### Overview
+This project uncovers that YouTubers (i.e., video content creators) felt confused about the opacity and inconsistency of algorithmic decisions they received, and especially they felt unfair about the ripple effects of such decisions on their performance metrics such as viewership, audience engagement, ad income and more. This project derives from these findings to provide translatable design considerations for algorithmic moderation systems on platforms like YouTube affording monetization programs for creators. 
+
+##### Project Duration: 
 
 Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 <!--more-->
@@ -19,7 +25,7 @@ A small river named Duden flows by their place and supplies it with the necessar
 
 > The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
-## Header Level 2
+### Header Level 2
 
 Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 
