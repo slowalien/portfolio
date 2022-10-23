@@ -14,8 +14,8 @@ params:
       url: portfolio/
     - name: About
       url: about/
-    - name: Get in touch
-      url: contact/
+    #- name: Get in touch
+    #  url: contact/
   sidebarAbout:
     - I am an PhD student in HCI and aspiring UX researcher studying content creators and platform governance through mixed methods!
     - Originally from China, currently based in PA, USA.
