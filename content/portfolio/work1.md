@@ -42,5 +42,5 @@ As platform like YouTube uses various algorithms (e.g., machine learning) to imp
 
 [1]: img/fairness.png
 
-[2]: img/opacity.png
+[2]: https://github.com/slowalien/portfolio/blob/6d22f5d0c4fe40fd321b23b693450acd412913b9/static/img/opacity.png
 
