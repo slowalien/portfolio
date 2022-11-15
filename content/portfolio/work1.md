@@ -28,7 +28,7 @@ As platform like YouTube uses various algorithms (e.g., machine learning) to imp
 
 #### Findings
 
-![Yellow Duck](img/portfolio/fairnessfinding.png)
+![Perceiving Fairness of Algorithms](https://github.com/slowalien/portfolio/blob/134bd00951671e0db80e7f4683838a3fa24277c8/static/img/portfolio/opacity.png)
 
 <img src="img/portfolio/fairnessfinding.png">
 
