@@ -28,8 +28,10 @@ As platform like YouTube uses various algorithms (e.g., machine learning) to imp
 
 #### Findings
 
+##### Encountering the Opacity of Algorithms
 ![Encountering the Opacity of Algorithms](/img/portfolio/opacity.jpg)
 
+##### Perceiving the (un)Fairness of Algorithms
 ![Perceiving Fairness of Algorithms](/img/portfolio/fairness.jpg)
 
 #### Design Considerations
