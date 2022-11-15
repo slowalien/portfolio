@@ -28,9 +28,9 @@ As platform like YouTube uses various algorithms (e.g., machine learning) to imp
 
 #### Findings
 
-![Encountering the Opacity of Algorithms](img/portfolio/opacity.jpg)
+![Encountering the Opacity of Algorithms](/img/portfolio/opacity.jpg)
 
-![Perceiving Fairness of Algorithms](img/portfolio/fairness.jpg)
+![Perceiving Fairness of Algorithms](/img/portfolio/fairness.jpg)
 
 #### Design Considerations
 > **Transparency** of algorithmic decision-making process such as disclosing whether YouTuber’s videos are invisible under ‘restricted mode,’ on Creator Studio dashboard.
