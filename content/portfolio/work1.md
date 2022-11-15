@@ -28,11 +28,9 @@ As platform like YouTube uses various algorithms (e.g., machine learning) to imp
 
 #### Findings
 
-![Perceiving Fairness of Algorithms](https://github.com/slowalien/portfolio/blob/134bd00951671e0db80e7f4683838a3fa24277c8/static/img/portfolio/opacity.png)
+![Perceiving Fairness of Algorithms][1]
 
-<img src="img/portfolio/fairnessfinding.png">
-
-{{< figure src="img/portfolio/opacity.png">}}
+![Encountering the Opacity of Algorithms][2]
 
 #### Design Considerations
 > **Transparency** of algorithmic decision-making process such as disclosing whether YouTuber’s videos are invisible under ‘restricted mode,’ on Creator Studio dashboard.
@@ -40,3 +38,9 @@ As platform like YouTube uses various algorithms (e.g., machine learning) to imp
 >Informing creators of **how moderation decision affects performance metrics** such as income and visibility.
 
 >**Creators’ voice** should be further valued by algorithmic assemblage of moderation decision-making (e.g., self-certification tool).
+
+
+[1]: img/portfolio/fairnessfinding.png
+
+[2]: img/portfolio/opacity.png
+
