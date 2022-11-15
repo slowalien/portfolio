@@ -28,7 +28,7 @@ As platform like YouTube uses various algorithms (e.g., machine learning) to imp
 
 #### Findings
 
-![Perceiving Fairness of Algorithms][1]
+![Perceiving Fairness of Algorithms](img/fairness.png)
 
 ![Encountering the Opacity of Algorithms][2]
 
@@ -39,8 +39,6 @@ As platform like YouTube uses various algorithms (e.g., machine learning) to imp
 
 >**Creators’ voice** should be further valued by algorithmic assemblage of moderation decision-making (e.g., self-certification tool).
 
-
-[1]: img/fairness.png
 
 [2]: https://github.com/slowalien/portfolio/blob/6d22f5d0c4fe40fd321b23b693450acd412913b9/static/img/opacity.png
 
