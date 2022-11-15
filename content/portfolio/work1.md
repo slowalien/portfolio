@@ -28,7 +28,9 @@ As platform like YouTube uses various algorithms (e.g., machine learning) to imp
 
 #### Findings
 
-{{< figure src="img/portfolio/fairnessfinding.png">}}
+![Yellow Duck](img/portfolio/fairnessfinding.png)
+
+<img src="img/portfolio/fairnessfinding.png">
 
 {{< figure src="img/portfolio/opacity.png">}}
 
