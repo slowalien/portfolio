@@ -40,7 +40,7 @@ As platform like YouTube uses various algorithms (e.g., machine learning) to imp
 >**Creators’ voice** should be further valued by algorithmic assemblage of moderation decision-making (e.g., self-certification tool).
 
 
-[1]: img/portfolio/fairnessfinding.png
+[1]: img/fairness.png
 
-[2]: img/portfolio/opacity.png
+[2]: img/opacity.png
 
